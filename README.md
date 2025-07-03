@@ -1,11 +1,11 @@
-# <img src="Figures/mousetrap_logo.png" alt="icon" width="55"/> A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos
+# <img src="Figures/mousetrap_logo.png" alt="icon" width="45"/> A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos
 
-### Findings of the Association for Computational Linguistics: ACL 2025 <img src="Figures/acl_logo.png" alt="icon" width="60"/>
+### Findings of the Association for Computational Linguistics: ACL 2025 <img src="Figures/acl_logo.png" alt="icon" width="50"/>
 
-**Yang Yao$^{1, 2, †}$  Xuan Tong$^{1, 3}$  Ruofan Wang$^{1, 3}$  Yixu Wang$^{1, 3}$**
-**Lujundong Li$^{1, 4}$  Liang Liu$^{2}$  Yan Teng$^{1, 🖂}$  Yingchun Wang$^{1}$**
-*$^{1}$ Shanghai Artificial Intelligence Laboratory  $^{2}$ The University of Hong Kong*
-*$^{3}$ Fudan University  $^{4}$ The Hong Kong University of Science and Technology (Guangzhou)*
+**Yang Yao  Xuan Tong  Ruofan Wang  Yixu Wang
+Lujundong Li  Liang Liu  Yan Teng  Yingchun Wang**
+*Shanghai Artificial Intelligence Laboratory  The University of Hong Kong*
+*Fudan University   The Hong Kong University of Science and Technology (Guangzhou)*
 
 ---
 
